@@ -23,7 +23,9 @@ Create 2 terminal tabs and paste the following:<br>
 <br>
 cd bungee && sudo java -jar bungee.jar
 <br>
+<br>
 cd server && sudo java -jar server.jar
+<br>
 <br>
 Now go to the ports area and forward (and make public) port `8081`
 <br>
