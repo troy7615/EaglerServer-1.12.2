@@ -14,7 +14,6 @@ Modifications and ran by troy7615
 
 ## To start the server
 <br>
-<br>
 First, go to the top of the repo and click on code > codespaces > create codespace
 <br>
 Next you need to run the setup commands:
